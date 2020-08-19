@@ -42,7 +42,7 @@
             ]
         ],
         "peripherals": [
-            "OPAMP",
+            "OPAMP"
         ],
         "keywords": [
             "op amp",
