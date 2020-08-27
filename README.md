@@ -23,15 +23,16 @@ OP0, OP1 and OP2 are combined to create an instrumentation amplifier
 
 ## Related Documentation
 
-* [TB3272 - Getting Started with External High-Frequency Oscillator on AVR DB](https://microchip.com/DSxxxxxxxxxx) <!-- TODO: Update link once assigned -->
-* [AVR128DB48 Curiosity Nano User Guide](https://microchip.com/DSxxxxxxxxxx) <!-- TODO: Update link once assigned -->
+* [TB3286 - Getting Started with Analog Signal Conditioning (OPAMP)](https://microchip.com/DS90003286)
 * [AVR128DB48 Device Page](https://www.microchip.com/wwwproducts/en/AVR128DB48)
+* AVR128DB48 Curiosity Nano User Guide (link will be added once available)
 
 
 ## Software Used
 
 * [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
-* Atmel Studio AVR-Dx_DFP version 1.2.56 or later
+* Atmel Studio AVR-Dx_DFP version 1.3.67 or later
+* For the MPLAB® X version of these projects, please go to [this repository](https://github.com/microchip-pic-avr-examples/avr128db48-getting-started-with-opamp-mplab)
 
 ## Hardware Used
 
