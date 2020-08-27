@@ -5,9 +5,9 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.avr128db48-getting-started-with-opamp-studio",
         "version": "1.0.0",
-        "displayName": "Getting Started with OPAMP on AVR DB",
+        "displayName": "Getting Started with OPAMP on AVR DB Studio",
         "projectName": "avr128db48-getting-started-with-opamp-studio",
-        "shortDescription": "The Analog Signal Conditioning (OPAMP) peripheral features up to three internal operational amplifiers (op amps). It can help reduce or entirely eliminate the need for external/discrete op amps in an electronic design, thus potentially decreasing the bill of materials. The main purpose of op amps is to condition the analog signals before acquisition in a microcontroller or to provide the necessary output drive in control applications. Getting Started with Analog Signal Conditioning (OPAMP) (TBxxx) show, togheter with these examples how the OPAMP can be used on the AVR DB family of microcontrollers. ",
+        "shortDescription": "The Analog Signal Conditioning (OPAMP) peripheral features up to three internal operational amplifiers (op amps). It can help reduce or entirely eliminate the need for external/discrete op amps in an electronic design, thus potentially decreasing the bill of materials. The main purpose of op amps is to condition the analog signals before acquisition in a microcontroller or to provide the necessary output drive in control applications. Getting Started with Analog Signal Conditioning (OPAMP) (TB 3286) show, togheter with these examples how the OPAMP can be used on the AVR DB family of microcontrollers.",
         "ide": {
             "name": "Studio",
             "semverRange": ">=7.0.2397"
