@@ -1,7 +1,7 @@
 <!-- Please do not change this logo with link -->
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# Getting Started with Analog Signal Conditioning OPAMP on AVR DB
+#  Getting Started with Analog Signal Conditioning (OPAMP)
 
 The Analog Signal Conditioning (OPAMP) peripheral features up to three internal operational amplifiers (op amps). The op amps can be configured to a multitude of different operations using internal multiplexers and resistor laders  
 
