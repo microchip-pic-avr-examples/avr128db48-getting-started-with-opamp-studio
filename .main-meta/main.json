@@ -22,6 +22,10 @@
             "name": "AVR-Dx_DFP",
             "semverRange": ">=1.3.67"
         },
+        "configurator": {
+            "name": "N/A",
+            "semverRange": ""
+        },
         "device": {
             "metaDataVersion": "1.0.0",
             "category": "com.microchip.portal.contentRef",
