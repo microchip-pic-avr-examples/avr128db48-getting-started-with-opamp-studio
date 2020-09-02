@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "displayName": "Getting Started with Analog Signal Conditioning (OPAMP)",
         "projectName": "avr128db48-getting-started-with-opamp-studio",
-        "shortDescription": "The Analog Signal Conditioning (OPAMP) peripheral features up to three internal operational amplifiers (op amps). It can help reduce or entirely eliminate the need for external/discrete op amps in an electronic design, thus potentially decreasing the bill of materials. The main purpose of op amps is to condition the analog signals before acquisition in a microcontroller or to provide the necessary output drive in control applications. Getting Started with Analog Signal Conditioning (OPAMP) (TB 3286) show, togheter with these examples how the OPAMP can be used on the AVR DB family of microcontrollers.",
+        "shortDescription": "These Atmel Studio 7 bare metal examples in Getting Started with Analog Signal Conditioning (OPAMP) (TB3286), show how the OPAMP can be used on the AVR DB family of microcontrollers.The OPAMP peripheral features up to three internal operational amplifiers. ",
         "ide": {
             "name": "Studio",
             "semverRange": ">=7.0.2397"
@@ -44,42 +44,44 @@
                "Peripherals", "DAC"
             ],
             [
-                "Peripherals", "VREF"
-             ],
-            [
-                "Peripherals", "USART"
+               "Development Kit", "AVR128DB48 Curiosity Nano"
             ],
             [
-               "Development Kit", "AVR128DB48 Curiosity Nano"
+                "Supporting Tools", "MPLAB Data Visualizer"
+            ],
+            [
+                "Supporting Tools", "MPLAB Mindi"
             ]
         ],
         "peripherals": [
-            "OPAMP", "ADC", "DAC","VREF","USART"
+            "OPAMP", "ADC", "DAC"
         ],
         "keywords": [
-            "analog signal conditioning",
-            "getting started",
-            "digital to analog converte",
-            "resistor ladder",
-			"adjustable gain",
-            "programmable gain",
-            "operational amplifier",
-            "op amp",
-            "MINDI",
-            "simulation",
-            "data visualizer",
-            "intelligent analog",
-            "sensor",
+            "Analog Signal Conditioning",
+            "Getting Started",
+            "Digital-to-Analog Converter",
+            "Resistor Ladder",
+			"Adjustable Gain",
+            "Programmable Gain",
+            "Operational Amplifier",
+            "Op Amp",
+            "Simulation",
+            "Intelligent Analog",
             "CNANO",
-            "voltage follower",
-            "unity gain buffer",
-            "battery monitoring",
-            "programmable gain amplifier",
+            "Voltage Follower",
+            "Unity Gain Buffer",
+            "Battery Monitoring",
+            "Programmable Gain Amplifier",
             "PGA",
-            "differential amplifier",
-            "differential amplifier",
-            "instrumentation amplifier",
-            "wheatstone bridge"
+            "Differential Amplifier",
+            "Instrumentation Amplifier",
+            "Wheatstone Bridge",
+            "AVR-DB",
+            "AVRDB",
+            "using-opamp-as-a-regulated-power-supply",
+            "AVR-DB",
+            "AVRDB",
+            "getting-started-with-opamp"
         ],
 		"additionalData": {
 			"longDescription": {
