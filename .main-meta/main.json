@@ -67,7 +67,6 @@
             "Op Amp",
             "Simulation",
             "Intelligent Analog",
-            "CNANO",
             "Voltage Follower",
             "Unity Gain Buffer",
             "Battery Monitoring",
@@ -79,9 +78,6 @@
             "AVR-DB",
             "AVRDB",
             "using-opamp-as-a-regulated-power-supply",
-            "AVR-DB",
-            "AVRDB",
-            "getting-started-with-opamp"
         ],
 		"additionalData": {
 			"longDescription": {

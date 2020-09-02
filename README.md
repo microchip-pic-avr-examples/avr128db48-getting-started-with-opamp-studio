@@ -25,7 +25,7 @@ OP0, OP1 and OP2 are combined to create an instrumentation amplifier
 
 * [TB3286 - Getting Started with Analog Signal Conditioning (OPAMP)](https://microchip.com/DS90003286)
 * [AVR128DB48 Device Page](https://www.microchip.com/wwwproducts/en/AVR128DB48)
-* AVR128DB48 Curiosity Nano User Guide (link will be added once available)
+* [AVR128DB48 Curiosity Nano User Guide](https://www.microchip.com/DS50003037)
 
 
 ## Software Used
